@@ -16,8 +16,8 @@ Thanks to all the attendees of SPSHyderabad.  Here, we are sharing the Presentat
 | 5 | Jasjit Chopra & Akhil Ohri| Modern SharePoint Site Provisioning using Azure Automation | [GoogleDrive](https://drive.google.com/open?id=1rTT4AjFXrCOVtUEwNiEc0U6uB2eQ374_ "PowerPoint on GoogleDrive")  |
 | 6 | Kirti Prajapati | Changing the way we engage with technology | [GoogleDrive](https://drive.google.com/open?id=1P2iXibvycYDy87D0-10XU3bl0OQawU8h "PowerPoint on GoogleDrive")  |
 | 7 | Vipul Kelkar | Deep Dive into Microsoft Flow | [GoogleDrive](https://drive.google.com/open?id=18mnuClvESZNmN5L3DFV18PzFEBaluQVu  "PowerPoint on GoogleDrive")  |
-| 8 | Mitul Rana and Samik Roy| PowerShell Scripting and AI Infused Automation | [GoogleDrive](https://drive.google.com/open?id=1h8ViCWMyJ5lr_aLAp12WRDBWqhfDZGL6   "PowerPoint on GoogleDrive")  |
-| 9 | Siva Sankar Reddy and Divya Akula | Microsoft Bot Framework Integration with Graph | [GoogleDrive](https://drive.google.com/open?id=1Rc5zNL6c9UZCE6zH_Kb4XJwdAwxBX68Z  "PowerPoint on GoogleDrive")  |
+| 8 | Mitul Rana & Samik Roy| PowerShell Scripting and AI Infused Automation | [GoogleDrive](https://drive.google.com/open?id=1h8ViCWMyJ5lr_aLAp12WRDBWqhfDZGL6   "PowerPoint on GoogleDrive")  |
+| 9 | Siva Sankar Reddy & Divya Akula | Microsoft Bot Framework Integration with Graph | [GoogleDrive](https://drive.google.com/open?id=1Rc5zNL6c9UZCE6zH_Kb4XJwdAwxBX68Z  "PowerPoint on GoogleDrive")  |
 | 10 | Ram Prasad Meenavalli | Provisioning Modern Sites using Site scripts and Site Designs | [GoogleDrive](https://drive.google.com/open?id=1973E92YuBQQ2Eqg518OVSp2PO2ThBWWZ  "PowerPoint on GoogleDrive")  |
 | 11 | Stefano Tempesta | Electronic Signature with Azure Blockchain | [GoogleDrive](https://drive.google.com/open?id=1JQn6K-e-abu0eL706ULSWopYMqRIEnRe  "PowerPoint on GoogleDrive")  |
 

@@ -19,7 +19,7 @@ Thanks to all the attendees of SPSHyderabad.  Here, we are sharing the Presentat
 | 8 | Mitul Rana and Samik Roy| PowerShell Scripting and AI Infused Automation | [GoogleDrive](https://drive.google.com/open?id=1h8ViCWMyJ5lr_aLAp12WRDBWqhfDZGL6   "PowerPoint on GoogleDrive")  |
 | 9 | Siva Sankar Reddy and Divya Akula | Microsoft Bot Framework Integration with Graph | [GoogleDrive](https://drive.google.com/open?id=1Rc5zNL6c9UZCE6zH_Kb4XJwdAwxBX68Z  "PowerPoint on GoogleDrive")  |
 | 10 | Ram Prasad Meenavalli | Provisioning Modern Sites using Site scripts and Site Designs | [GoogleDrive](https://drive.google.com/open?id=1973E92YuBQQ2Eqg518OVSp2PO2ThBWWZ  "PowerPoint on GoogleDrive")  |
-| 11 | Stepfano Tempesta | Block Chain Digital Signature and SharePoint | [OneDrive](https://1drv.ms/v/s!AjLelFYXfI-PsdgXReI5kSRHLsBufA  "Video on OneDrive")  |
+| 11 | Stefano Tempesta | Electronic Signature with Azure Blockchain | [GoogleDrive](https://drive.google.com/open?id=1JQn6K-e-abu0eL706ULSWopYMqRIEnRe  "PowerPoint on GoogleDrive")  |
 
 
  

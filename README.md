@@ -1,10 +1,7 @@
 # SharePoint Saturday Hyderabad (09-Mar-2019)
 
-Thanks to all the attendees of SPSBangalore.  Here, we are sharing the Presentation links from all Speakers. Reach out to us on Twitter [@SPSHyderabad](https://twitter.com/spsbangalore "SharePoint Saturday Gurgaon") for any further inputs (Hash tag #SPSHyderabad).
+Thanks to all the attendees of SPSHyderabad.  Here, we are sharing the Presentation links from all Speakers. Reach out to us on Twitter [@SPSHyderabad](https://twitter.com/spshyderabad) for any further inputs (Hash tag #SPSHyderabad).
 
-## Opening Presentation
-
-Opening Presentation - [SlideShare](https://www.slideshare.net/DiptiChhatrapati/sps-bangalore-2018-opening-113042137  "Opening/Welcome Presentation")  
 
 ## Session Presentations
 
@@ -12,38 +9,19 @@ Opening Presentation - [SlideShare](https://www.slideshare.net/DiptiChhatrapati/
 
 | Sl# | Speaker Name | Session Title | Presentation / Links |
 |:---:|:-----------|:---------|:------------|
-| 1 | Abhishek Purohit | Introduction to developing application for Office365. <br/>SharePoint Online Event Handling using Web hooks and Azure Functions | <i>TBD</i> |
-| 2 | Bijay Kumar Sahoo | Workflow Development using Visual Studio 2017 for SharePoint Online | [OneDrive](https://1drv.ms/p/s!Aou2QDej1P86rwUYPdTofQg74N3u  "PowerPoint on OneDrive")  |
-| 3 | Chendrayan Venkatesan | Use PowerShell and Node.js to work with SharePoint data | [GitHub](https://github.com/ChendrayanV/Events-2018-2019/tree/master/SPSEvents-SEP2018  "Chen's Personal GitHub")  |
-| 4 | Dipti Chhatrapati | Being insightful is the only way to get on SharePoint Hybrid | [SlideShare](https://www.slideshare.net/DiptiChhatrapati/sps-bangalore-2018-sharepoint-hybrid  "Dipti's Personal SlideShare")  |
-| 5 | Jasjit Chopra | Running SharePoint 2016 in Azure - The Do's and the Dont's | [SlideShare](https://www.slideshare.net/jasjitchopra/running-sharepoint-2016-in-azure-the-dos-and-the-donts "Jasjit's Personal SlideShare")  |
-| 6 | Kirti Prajapati | SPFx Extensions - Personalize/Customize your Modern Sites | [SlideShare](https://www.slideshare.net/kirtiprajapati/spfx-extensions-personalizecustomize-your-modern-sites "Kirti's Personal SlideShare")  |
-| 7 | Manoj Mittal | Build Intelligent Azure Bot using Cognitive Services with SharePoint Online | [SlideShare](https://www.slideshare.net/ManojMittal12/build-intelligent-azure-bot-using-cognitive-services-with-sharepoint-online  "Manoj's Personal SlideShare")  |
-| 8 | Mitul Rana | Building Efficient eDiscovery and Compliance with SharePoint | [SlideShare](https://www.slideshare.net/mobile/mitul2020/building-efficient-ediscovery-and-compliance-with-sharepoint-and-o365   "Mitul's Personal SlideShare")  |
-| 9 | Nakkeeran Natarajan | Microsoft Flow and Custom Connectors for automating SharePoint processes | [SlideShare](https://www.slideshare.net/NakkeeranNatarajan/automating-sharepoint-processes-with-microsoft-flow-spsbangalore  "Nakkeeran's Personal SlideShare")  |
-| 10 | Suhail Jamaldeen | Make Business Decisions with SharePoint Online Data and Power BI | [OneDrive](https://1drv.ms/p/s!Aou2QDej1P86rwd6sQ3QB-fxQzSu  "PowerPoint on OneDrive")  |
-| 11 | Vignesh Ganesan / Jayanthi P | Overview of SharePoint Server 2019 | [SlideShare](https://www.slideshare.net/VigneshGanesanMCPMCI/sharepoint-saturday-bangalore-overview-of-sharepoint-server-2019/VigneshGanesanMCPMCI/sharepoint-saturday-bangalore-overview-of-sharepoint-server-2019 "Vignesh's Personal SlideShare")  |
+| 1 | Vijai Anand | Classic Versus Modern SharePoint Sites | [GoogleDrive](https://drive.google.com/open?id=16g5SqUVwUNXSr_p-qtxPgwEXejivanqq  "PowerPoint on GoogleDrive")  |
+| 2 | Arut Selvan & Jaykumar Bala Subramaniam | Analyse User Feedback using Sentiment Analysis and Flow | [GoogleDrive](https://drive.google.com/open?id=1d-54SJnpQKwBdq5e9_abtfgw9LNG3tqu  "PowerPoint on GoogleDrive")  |
+| 3 | Jenkins NS | Overcome Common Collaboration Challenges using MS Teams| [GoogleDrive](https://drive.google.com/open?id=1Wr_52f0Njq6tKumsmdo2CmVdjlCL7zK8 "PowerPoint on GoogleDrive")  |
+| 4 | Vignesh Ganesan | Drive Successfull Office 365 Adoption in your organization | [GoogleDrive](https://drive.google.com/open?id=18oqYOvwf0Aal51FdqtlSIuJ0h7e3sOfe  "PowerPoint on GoogleDrive")  |
+| 5 | Jasjit Chopra & Akhil Ohri| Modern SharePoint Site Provisioning using Azure Automation | [GoogleDrive](https://drive.google.com/open?id=1rTT4AjFXrCOVtUEwNiEc0U6uB2eQ374_ "PowerPoint on GoogleDrive")  |
+| 6 | Kirti Prajapati | Changing the way we engage with technology | [GoogleDrive](https://drive.google.com/open?id=1P2iXibvycYDy87D0-10XU3bl0OQawU8h "PowerPoint on GoogleDrive")  |
+| 7 | Vipul Kelkar | Deep Dive into Microsoft Flow | [GoogleDrive](https://drive.google.com/open?id=18mnuClvESZNmN5L3DFV18PzFEBaluQVu  "PowerPoint on GoogleDrive")  |
+| 8 | Mitul Rana and Samik Roy| PowerShell Scripting and AI Infused Automation | [GoogleDrive](https://drive.google.com/open?id=1h8ViCWMyJ5lr_aLAp12WRDBWqhfDZGL6   "PowerPoint on GoogleDrive")  |
+| 9 | Siva Sankar Reddy and Divya Akula | Microsoft Bot Framework Integration with Graph | [GoogleDrive](https://drive.google.com/open?id=1Rc5zNL6c9UZCE6zH_Kb4XJwdAwxBX68Z  "PowerPoint on GoogleDrive")  |
+| 10 | Ram Prasad Meenavalli | Provisioning Modern Sites using Site scripts and Site Designs | [GoogleDrive](https://drive.google.com/open?id=1973E92YuBQQ2Eqg518OVSp2PO2ThBWWZ  "PowerPoint on GoogleDrive")  |
+ 
 
-## SharePoint/Office365/Microsoft User Groups in Bangalore
-These are links to Microsoft Technology related User Groups that runs in-person / online meetups.
-* SharePoint Bangalore | [Facebook](https://www.facebook.com/groups/spbangalore/ "Facebook") | [Twitter](https://twitter.com/spbangalore "Twitter")
-
-* Bangalore IT Pro + PowerShell User Group | [Facebook](https://www.facebook.com/groups/psbug/ "Facebook")
-
-* aOS Community | [Facebook](https://www.facebook.com/aosComm/ "Facebook")
-
-* C# Corner Bengaluru Chapter | [Website](https://www.c-sharpcorner.com/chapters/bengaluru-chapter "C# Corner Bengaluru Chapter")
-
-* Microsoft Azure User Group Bangalore | [Meetup](https://www.meetup.com/Microsoft-Azure-Bangalore/  "Meetup")
-
-* Bangalore .NET User Group | [Facebook](https://www.facebook.com/groups/BDotNet/  "Facebook")
-
-* SQL Bangalore | [Facebook](https://www.facebook.com/groups/SQLBangalore/   "Facebook")
-
-* DataPlatformGeeks | [Website](http://www.dataplatformgeeks.com/ "Website")
-
-## SharePoint Saturday Events
 
 * Want to find out global SharePoint Saturday events? Visit [SPSEvents](http://www.spsevents.org/ "SharePoint Saturdays Home Page")
 
-* SPSBangalore Event Page [SPSBangalore](http://www.spsevents.org/city/Bangalore/Bangalore2018/ "SPSBangalore 01-Sep-2018")
+* SPSHyderabad Event Page [SPSHyderabad](http://www.spsevents.org/city/Bangalore/Hyderabad2019/ "SPSHyderabad 09-March-2019")
